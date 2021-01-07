@@ -1,4 +1,4 @@
-# Web Application: Tripmap
+# Web Application: Kartemap
 #### An App That Makes Your Trip Arrangement Fast and Easy
 
 Ziyu Tang, Xinlan Wu
